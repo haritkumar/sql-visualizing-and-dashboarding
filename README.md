@@ -17,6 +17,18 @@ Cube.js is great for building internal business intelligence tools or adding cus
 
 [Cube.js](https://cube.dev/)
 
+## 4. LinceBI
+As powerful as an enterprise version, with the advantages of being Open Source based. Discover LinceBI , the most complete Bussines Intelligence platform including all the functionalities you need
+A non lincense, open source based, alternative to PowerBI
+
+[LinceBI](https://lincebi.com/)
+
+## 5. Poli
+Poli is an easy-to-use SQL reporting application
+Platform independent web application. Single JAR file + Single SQLite DB file. Get up and running in 5 minutes.
+
+[poli](https://github.com/shzlw/poli)
+
 ## Liquibase
 Liquibase is an open-source database-independent library for tracking, managing and applying database schema changes. It was started in 2006 to allow easier tracking of database changes, especially in an agile software development environment.
 
